@@ -11,3 +11,13 @@ PHPMYADMIN
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04
 
 https://tecadmin.net/install-phpmyadmin-ubuntu-20-04/
+
+sonarQube
+----------
+https://www.fosstechnix.com/how-to-install-sonarqube-on-ubuntu-20-04/
+
+Jenkins
+--------
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04
+
+
