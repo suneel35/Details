@@ -16,6 +16,8 @@ sonarQube
 ----------
 https://www.fosstechnix.com/how-to-install-sonarqube-on-ubuntu-20-04/
 
+https://digitalavenue.dev/Install-SonarQube-On-Ubuntu-Debian/
+
 Jenkins
 --------
 https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04
