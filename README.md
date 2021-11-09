@@ -26,4 +26,8 @@ SSL Certificate
 ---------------
 https://www.cyberciti.biz/faq/secure-nginx-with-lets-encrypt-on-ubuntu-18-04-with-dns-validation/
 
+mysql workbench
+----------------
+https://linuxhint.com/installing_mysql_workbench_ubuntu/
+
 
