@@ -22,4 +22,8 @@ Jenkins
 --------
 https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04
 
+SSL Certificate
+---------------
+https://www.cyberciti.biz/faq/secure-nginx-with-lets-encrypt-on-ubuntu-18-04-with-dns-validation/
+
 
