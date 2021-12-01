@@ -1,5 +1,10 @@
 # Full software related links for downloading on "UBUNTU"
 
+VPN server install steps:
+----------------------
+
+https://www.digitalocean.com/community/tutorials/how-to-setup-a-multi-protocol-vpn-server-using-softether
+
 Nodejs application on PM2
 ----------------------------
 https://faun.pub/how-to-setup-pm2-and-run-node-js-applications-fit-devops-adbc20bb45ad
