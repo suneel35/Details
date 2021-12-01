@@ -7,7 +7,10 @@ https://faun.pub/how-to-setup-pm2-and-run-node-js-applications-fit-devops-adbc20
 example github url: https://github.com/ds-oliveira/rest-api
 
 Indetail of Nodejs-PM2
+
 https://pm2.keymetrics.io/docs/usage/use-pm2-with-cloud-providers/
+
+
 LAMP STACk
 ----------
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04
