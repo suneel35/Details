@@ -48,4 +48,8 @@ https://linuxhint.com/installing_mysql_workbench_ubuntu/
 
 Java Docker spring application # https://springframework.guru/consul-miniseries-spring-boot-application-and-consul-integration-part-1/
 
+ftp creating user and given permissions
+----------------------------------------
+https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-18-04
+
 
