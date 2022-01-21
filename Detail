@@ -1,0 +1,22 @@
+https://medium.com/@kunalyadav/what-is-amazon-elastic-load-balancer-elb-16cdcedbd485 ---> elb details.
+
+https://medium.com/@ratulbasak93/mongodb-relication-in-ubuntu-16-04-acd5baf744a3   ---> mongodb replica
+
+https://linuxize.com/post/how-to-install-mongodb-on-ubuntu-18-04/   ---> steps for install mongodb
+
+https://bobcares.com/blog/mongodb-port-27017-not-working/ --> db
+
+https://towardsdatascience.com/deploying-a-docker-container-with-ecs-and-fargate-7b0cbc9cd608 ---> for docker ecs & Jenkins 
+
+https://computingforgeeks.com/how-to-install-gitlab-ce-on-ubuntu-linux/ ---> on ubuntu server install gitlab
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04  ---> VPN Setup
+
+https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/  ---> steps for install nodejs and npm 
+
+https://tecadmin.net/deploy-nodejs-application-pm2/  --->  pm2 
+
+https://stackoverflow.com/questions/27023622/overflow-sort-stage-buffered-data-usage-exceeds-internal-limit  ---> for mongodb increase size
+
+
+https://tecadmin.net/how-to-setup-vsftpd-on-ubuntu-20-04/ ---> sftp install
