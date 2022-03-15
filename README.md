@@ -1,4 +1,7 @@
 # Full software related links for downloading on "UBUNTU"
+openVPN server steps:
+----------------------
+https://www.cyberciti.biz/faq/ubuntu-20-04-lts-set-up-openvpn-server-in-5-minutes/
 
 VPN server install steps:
 ----------------------
