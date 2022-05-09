@@ -1,6 +1,10 @@
 https://medium.com/@kunalyadav/what-is-amazon-elastic-load-balancer-elb-16cdcedbd485 ---> elb details.
 
+https://coderrocketfuel.com/article/deploy-a-nodejs-application-to-digital-ocean-with-https ---> application A-Z
+
 https://medium.com/@ratulbasak93/mongodb-relication-in-ubuntu-16-04-acd5baf744a3   ---> mongodb replica
+
+https://www.howtoforge.com/how-to-install-and-use-mongodb-on-ubuntu-2004/ --->  ubuntu 20.04 steps on mongo
 
 https://linuxize.com/post/how-to-install-mongodb-on-ubuntu-18-04/   ---> steps for install mongodb
 
@@ -16,7 +20,67 @@ https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/  ---> steps fo
 
 https://tecadmin.net/deploy-nodejs-application-pm2/  --->  pm2 
 
+https://faun.pub/how-to-setup-pm2-and-run-node-js-applications-fit-devops-adbc20bb45ad ---> setup pm2 
+
 https://stackoverflow.com/questions/27023622/overflow-sort-stage-buffered-data-usage-exceeds-internal-limit  ---> for mongodb increase size
 
 
 https://tecadmin.net/how-to-setup-vsftpd-on-ubuntu-20-04/ ---> sftp install
+
+https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804  --->crontab for ubuntu 18.04
+
+https://linuxhint.com/create-crt-file-linux/ --->generate csr.crt
+
+https://www.sslshopper.com/article-installing-an-ssl-certificate-in-windows-server-2008-iis-7.0.html  ---> windows cert generate
+
+https://piyushchaudhariblog.wordpress.com/2018/01/09/changing-default-rdp-port-of-amazon-ec2-server-microsoft-windows-os/ ---> windows server change port-default
+
+https://towardsdatascience.com/deploying-a-docker-container-with-ecs-and-fargate-7b0cbc9cd608 ---> aws ecs fargate
+
+https://quileswest.medium.com/create-a-vpc-in-aws-with-public-and-private-subnets-nat-gateway-8c45ca371a82  ---> aws vpc public and private subnet,NAT gateway
+
+https://gabriel.nu/tutorials/Ubuntu-20.04-NGINX-LEMP-secure-web-server-for-WordPress-DIY.html ---> steps for install wordpress with secure http
+
+
+
+suneel.movie.insert({"name":"tutorials point"})
+
+
+sudo ufw allow 27017
+
+172.31.31.58 mongodb1
+172.31.19.54 mongodb2
+172.31.30.16 mongodb3
+
+
+
+mongo 172.31.31.58
+
+mongo 172.31.19.54
+
+mongo 172.31.30.16
+
+
+
+
+In primary server only we can perform this cmds
+
+rs.initiate()
+
+rs.add("172.31.19.54")
+
+
+https://clouddev.beperfeqta.com/avera
+
+check http2 enable or not
+
+curl -I --http2 -s https://clouddev.beperfeqta.com/ | grep HTTP
+
+
+sudo mongodump --host 127.0.0.1 --port 27017 --username dbadmin --password D3vS3rv3r --authenticationDatabase admin --db=
+
+sudo mongodump --host 127.0.0.1 --port 27017 --username root --password P3rf3cta_212 --authenticationDatabase admin
+
+
+rs.slaveOk() ---> if you this command in secondary database its showing dbs
+
